@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: e76b987fdae6ad842be44e9e095335ad
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9ac3808b5d98844479485aa8084ccf47
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacter.unity
+    guid: 8d3f3dba5249bd848980b48779030813
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 34e589559069c054880a654a24185602
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 34d55c5d41651be46afb242531a3d530
+  - enabled: 1
+    path: Assets/Scenes/Battlefield.unity
+    guid: 6974f6921e07f6740963aa81c5950929
+  - enabled: 1
+    path: Assets/Scenes/BowserCastle.unity
+    guid: 48150566edd7fbd499dbe26a7e6b1d58
+  - enabled: 1
+    path: Assets/Scenes/SelectStage.unity
+    guid: 192fc2a93761b324cbfb37aa3870b5dc
+  - enabled: 1
+    path: Assets/Scenes/CelebrationScreen.unity
+    guid: 1ecb813e6de3e95409fe5e7547bc89e3
+  m_configObjects: {}
